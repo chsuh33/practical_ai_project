@@ -1,7 +1,7 @@
 # 실전! AI 프로젝트 완주의 기술
 
 <p align="center">
-  <img src="book_cover.png" alt="실전! AI 프로젝트 완주의 기술 입체 표지" width="380">
+  <img src="실전! AI 프로젝트 완주의 기술.png" alt="실전! AI 프로젝트 완주의 기술 입체 표지" width="380">
 </p>
 
 **저자: 서창호 (Changho Suh)**  
